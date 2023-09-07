@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Amarajack/Signupform)
-- Live Site URL: [Add live site URL here](https://amarajack.github.io/Signupform/)
+- Solution URL: [](https://github.com/Amarajack/Signupform)
+- Live Site URL: [](https://amarajack.github.io/Signupform/)
 
 ## My process
 
